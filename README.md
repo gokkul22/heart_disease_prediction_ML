@@ -12,7 +12,7 @@ dataset and find the most accurate model.We use that model
 in our webpage to predict whether the given new data has a
 heart disease or not.
 
-# Abstract
+# ABSTRACT
 Heart disease is a broad term used for diseases and
 conditions affecting the heart and circulatory system. They are
 also referred to as cardiovascular diseases. It is a major cause
